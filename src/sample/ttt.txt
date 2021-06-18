@@ -1,0 +1,1 @@
+                player1 = new PlayerFat(new ImageView(new Image("player5.png")),300,315,0,293,880,1187,1537,1884,2220,2530,560,560,2840,3175);
